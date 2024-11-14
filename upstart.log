@@ -1,0 +1,4 @@
+2024-02-07T22:34:09.998075Z WARNING kernel: [39356.387406] init: tpm2-simulator main process (3601) killed by SYS signal
+2024-02-07T22:34:09.998084Z WARNING kernel: [39356.387417] init: tpm2-simulator main process ended, respawning
+2024-02-07T23:26:32.231924Z WARNING kernel: [42498.621216] init: tpm2-simulator main process (30342) killed by SYS signal
+2024-02-07T23:26:32.231936Z WARNING kernel: [42498.621228] init: tpm2-simulator main process ended, respawning
